@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Mobashshir Iqbal
 - 👀 I’m interested in Cloud & DevOps
-- 🌱 I’m currently learning AWS
+- 🌱 Cloud Engineer @ To The New
+- ⚒️ AWS, Kubernetes, Terraform, Grafana, Prometheus, Loki, Linux
+- 🇮🇳 Indian
 - 📫 reach me - mobashshiriqbal.8@gmail.com
 
 <!---
